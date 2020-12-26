@@ -36,5 +36,5 @@ def predict():
 #if we want to run this app then we should call run function 
 
 if __name__ == "__main__":
-    app.run(debug=True)                      #Till the time you are in development mode you have to be in debug mode
+    app.run(host='0.0.0.0',port=8080)                      #Till the time you are in development mode you have to be in debug mode
 
