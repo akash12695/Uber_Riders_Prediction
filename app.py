@@ -30,7 +30,7 @@ def predict():
 
     output = round(prediction[0], 2)                          #Rounding off the output till 2 points after decimal
 
-    return render_template('index.html', prediction_text='Number of weekly rides should be {}'.format(math.floor(output)))
+    return render_template('index.html', prediction_text='Number of weekly riders should be {}'.format(math.floor(output)))
    
 
 #if we want to run this app then we should call run function 
