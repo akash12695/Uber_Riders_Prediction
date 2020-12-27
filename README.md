@@ -1,4 +1,4 @@
-# Uber_Rides_Prediction
+# **Uber_Rides_Prediction**
 
 # Problem Statement:
  This project is to predict how many rides an Uber driver has to complete per week.
