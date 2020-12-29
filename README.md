@@ -8,7 +8,8 @@
 ## 1. Model Building
 Model building is done using  Multiple Linear Regression algorithm and obtained an accuracy of more than 90%.
 
-If you are searching for Code, Algorithms used and Accuracy of the model.. you won't find it here. Click the link mentioned below for the same: Link: https://github.com/akash12695/Uber_Riders_Prediction/blob/main/Uber%20Riders%20Prediction.ipynb
+If you are searching for Code, Algorithms used and Accuracy of the model.Click the link mentioned below for the same: 
+Link: https://github.com/akash12695/Uber_Riders_Prediction/blob/main/Uber%20Riders%20Prediction.ipynb
 
 ## 2. Create the Flask Application
 The file has been run on the Anaconda prompt using python filename.py. 
