@@ -21,6 +21,9 @@ I have created an application on Heroku(prediction-of-uber-riders), it associate
 • If you want to view the deployed model, click on the following link:
 Deployed at: https://prediction-of-uber-riders.herokuapp.com/
 
+• A glimpse of the web app:
+ ![GIF](readme_resources/Uber-Riders-Prediction-Model.gif)
+
 >## 📂&nbsp; RELEVANT TECHNOLOGY
 Any web technology can be used but I am thinking about using Python ecosystem.
 
