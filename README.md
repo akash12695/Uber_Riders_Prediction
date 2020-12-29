@@ -22,6 +22,7 @@ I have created an application on Heroku(prediction-of-uber-riders), it associate
 Deployed at: https://prediction-of-uber-riders.herokuapp.com/
 
 • A glimpse of the web app:
+
  ![GIF](readme_resources/Uber-Riders-Prediction-Model.gif)
 
 >## 📂&nbsp; RELEVANT TECHNOLOGY
